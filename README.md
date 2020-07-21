@@ -1,4 +1,4 @@
-![ImagenPrincipalCabecera](/Asturias.jpg)
+![ImagenPrincipalCabecera](https://github.com/Renegade9876/Renegade9876/edit/master/Asturias.jpg)
 # Renegade9876's repositories
 ## Welcome visitor:
 - 🔭 I’m currently investigate Git+Github
